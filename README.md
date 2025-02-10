@@ -1,6 +1,8 @@
-District102.com
-m@district102.com
-Box 70181, Marietta GA 30007
+# h1 District102.com
 
+# h2 Contact Information
++ m@district102.com
++ Box 70181, Marietta GA 30007
 
-We offer no refunds nor cancellations due to the personalized nature of our services.
+# h2 Fulfillment & Cancellation Policy
+All services are to be fulfilled within 30 days of recieving payment. We offer no refunds nor cancellations due to the personalized nature of our services.
